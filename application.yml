@@ -1,1 +1,6 @@
 A: 1
+management:
+ endpoints:
+   web:
+     expose: 
+      beans,metrics,refresh
